@@ -24,6 +24,18 @@ Each topic is broken down into subtopics, providing a detailed overview of the e
 
 To use this study guide, simply clone the repository to your local machine or download the .docx or .pdf file. The guide is provided in PDF format, which can be viewed on any device with a PDF reader.
 
+## Sources
+
+Sources used in the creation of this study guide include:
+
+`Official CompTIA Security+ Study Guide: Exam SY0-601, by Mike Chapple, David Seidl, and James Michael Stewart.`
+
+`Dion Training Solutions: https://www.diontraining.com/`
+
+`Professor Messer IT Certification Training: https://www.professormesser.com/security-plus/sy0-601/sy0-601-training-course/`
+
+These resources have been extensively referenced and used as the basis for the material in this guide.
+
 ## Contributing
 
 If you notice any errors or have suggestions for improving the study guide, feel free to submit a pull request or open an issue. Your contributions are greatly appreciated. The study guide is still during the editing process, and will be updated after every major update. The project itself will change through time, as more and more features will be added to it.
