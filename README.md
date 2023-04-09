@@ -42,7 +42,7 @@ If you notice any errors or have suggestions for improving the study guide, feel
 
 ## License
 
-This study guide is licensed under the MIT License. You are free to use, modify, and distribute it for personal or commercial purposes. See the `LICENSE` file for more details.
+This study guide is licensed under the MIT License. You are free to use, modify, and distribute it for personal or commercial purposes.
 
 ## Acknowledgments
 
