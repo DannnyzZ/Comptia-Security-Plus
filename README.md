@@ -47,3 +47,11 @@ This study guide is licensed under the MIT License. You are free to use, modify,
 ## Acknowledgments
 
 Special thanks to the CompTIA Security+ certification exam developers and the countless individuals who have contributed to the development of the study guide.
+
+## Changelog
+
+> Fixed multiple grammar mistakes.
+
+> Added new content, and improved existing one.
+
+> Unified formatting across whole document.
