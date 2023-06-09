@@ -34,6 +34,8 @@ Sources used in the creation of this study guide include:
 
 `Professor Messer IT Certification Training: https://www.professormesser.com/security-plus/sy0-601/sy0-601-training-course/`
 
+ `NIST, OWASP, MITRE and many others.'
+
 These resources have been extensively referenced and used as the basis for the material in this guide.
 
 ## Contributing
